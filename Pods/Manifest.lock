@@ -1,0 +1,21 @@
+PODS:
+  - LJNetworking (0.1.0)
+  - LJUIComponents (0.1.0)
+
+DEPENDENCIES:
+  - LJNetworking (from `Lib/LJNetworking`)
+  - LJUIComponents (from `Lib/LJUIComponents`)
+
+EXTERNAL SOURCES:
+  LJNetworking:
+    :path: Lib/LJNetworking
+  LJUIComponents:
+    :path: Lib/LJUIComponents
+
+SPEC CHECKSUMS:
+  LJNetworking: 80ea0f1c26cbb4a5126b148c85744e1cdea6cc26
+  LJUIComponents: 763a172c5ea21d3ec5040260627c3f54cd6c99bd
+
+PODFILE CHECKSUM: 0844a5b01779a494db47630bf32aeb6e466a5933
+
+COCOAPODS: 1.5.3

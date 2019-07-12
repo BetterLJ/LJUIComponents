@@ -1,0 +1,27 @@
+{
+  "name": "LJUIComponents",
+  "version": "0.1.0",
+  "summary": "A short description of LJUIComponents.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/李佳/LJUIComponents",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李佳": "jia.li@xinchan.com"
+  },
+  "source": {
+    "git": "https://github.com/李佳/LJUIComponents.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LJUIComponents/Classes/**/*",
+  "dependencies": {
+    "LJNetworking": [
+      "~> 2.3"
+    ]
+  }
+}
